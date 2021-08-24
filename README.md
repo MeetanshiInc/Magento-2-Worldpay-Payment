@@ -44,4 +44,4 @@ Magento 2 Worldpay Payment extension assures safe online payments. Get the benef
 * Let customers check the payment details in their "My Account" section after the order is placed.
 * Admin can go to Order View in the backend under Sales > Orders to check the payment details.
 
-For more informationFree Web Content, visit [https://meetanshi.com/magento-2-worldpay.html](https://meetanshi.com/magento-2-worldpay.html)
+For more information, visit [https://meetanshi.com/magento-2-worldpay.html](https://meetanshi.com/magento-2-worldpay.html)
